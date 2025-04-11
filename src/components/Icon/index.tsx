@@ -18,7 +18,8 @@ const Title = styled.h1`
     font-size: 2rem;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
-    color: #0236e0
+    color: #0236e0;
+    text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
 `;
 
 function Icon() {
